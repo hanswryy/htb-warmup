@@ -16,6 +16,6 @@ Flag is inside root folder where views is inside the "challange" folder, so we j
 ```
 cat ../flag
 ```
-<br>
-![image](https://github.com/user-attachments/assets/a11be05c-8251-47fc-8368-d94b5249615f)<br>
-![image](https://github.com/user-attachments/assets/246832e2-614e-4c8b-af62-4d033f582e1c)
+![image](https://github.com/user-attachments/assets/2faed3cb-c310-4d6c-9d50-52dfb9f5be55)
+![image](https://github.com/user-attachments/assets/76ac8774-df78-4ec8-b885-b023b923893d)
+
