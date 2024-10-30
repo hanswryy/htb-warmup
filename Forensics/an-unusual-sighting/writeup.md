@@ -33,3 +33,5 @@ Fingerprint is the SSH-keygen generated to connect to basically connect remotely
 
 Just look at the bash log from the unusual login timestamp.<br>
 ![image](https://github.com/user-attachments/assets/01540181-a395-4e92-b95a-c4d9daafcd36)
+
+flag: HTB{4n_unusual_s1ght1ng_1n_SSH_l0gs!}
