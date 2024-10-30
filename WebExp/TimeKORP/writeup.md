@@ -15,6 +15,7 @@ Try ls.<br>
 Flag is inside root folder where views is inside the "challange" folder, so we just need to cat the flag using <br>
 ```
 cat ../flag
-```<br>
+```
+<br>
 ![image](https://github.com/user-attachments/assets/a11be05c-8251-47fc-8368-d94b5249615f)<br>
 ![image](https://github.com/user-attachments/assets/246832e2-614e-4c8b-af62-4d033f582e1c)
