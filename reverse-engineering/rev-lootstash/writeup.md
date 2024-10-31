@@ -9,7 +9,7 @@ It's ELF, basically linux executable (.exe for linux).
 Boot up ghidra, we boutta get a headache from variable name.<br>
 ![image](https://github.com/user-attachments/assets/fa01cd12-da38-4b05-875c-c28844e8607d)
 
-First thing first check for some notable function in Symbol Tree. I think only main function that we need to look for.
+First thing first check for some notable function in Symbol Tree. I think only main function that we need to look for.<br>
 ![image](https://github.com/user-attachments/assets/1f85c57d-1170-4b24-9d97-39a1ded1685d)
 
 Lmao looks confusing right.<br>
